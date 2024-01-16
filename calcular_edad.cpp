@@ -16,7 +16,7 @@ int main() {
     cout << "Ingrese su apellido: ";
     getline(cin, apellido);
 
-    cout << "Ingrese su fecha de nacimiento (DD MM AAAA): ";
+    cout << "Ingrese su fecha de nacimiento: (DD MM AAAA): ";
     cin >> dia >> mes >> ano;
 
     // Obtención de la fecha actual
